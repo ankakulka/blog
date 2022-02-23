@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ankakulka.github.io/blog/about/</loc>
+    <lastmod>2022-02-01T14:57:01+01:00</lastmod>
+  </url><url>
+    <loc>https://ankakulka.github.io/blog/taxonomy/</loc>
+    <lastmod>2021-07-02T15:09:14+01:00</lastmod>
+  </url><url>
+    <loc>https://ankakulka.github.io/blog/readability/</loc>
+    <lastmod>2021-06-01T15:01:02+01:00</lastmod>
+  </url><url>
+    <loc>https://ankakulka.github.io/blog/</loc>
+  </url><url>
+    <loc>https://ankakulka.github.io/blog/categories/</loc>
+  </url><url>
+    <loc>https://ankakulka.github.io/blog/tags/</loc>
+  </url>
+</urlset>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Kulczycka</title>
+    <link>https://ankakulka.github.io/blog/</link>
+    <description>Recent content on Anna Kulczycka</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ankakulka.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://ankakulka.github.io/blog/about/</link>
+      <pubDate>Tue, 01 Feb 2022 14:57:01 +0100</pubDate>
+      
+      <guid>https://ankakulka.github.io/blog/about/</guid>
+      <description>About me I am an experienced Technical writer, fluent in written and spoken English. I am familiar with various tools used to create documentation and the best practices of content creation. As my educational record demonstrates, I am committed to continuous development.
+I am particularly interested in the developments in the field of NLP.
+I am not afraid of plunging into new environments - whether literally or figuratively through learning new technologies.</description>
+    </item>
+    
+    <item>
+      <title>Taxonomy</title>
+      <link>https://ankakulka.github.io/blog/taxonomy/</link>
+      <pubDate>Fri, 02 Jul 2021 15:09:14 +0100</pubDate>
+      
+      <guid>https://ankakulka.github.io/blog/taxonomy/</guid>
+      <description>Why should you create a taxonomy? Is a taxonomy necessary for your project? Why put extra work and effort into creating a system that many organizations seem to eschew? Let me illustrate with a quote from kmworld:
+ Knowledge workers spend
+ 15 to 35 percent of their time searching for information, 40 percent cannot find the information they need on their corporate intranets, 15 percent of their time is spent duplicating information that exists but cannot be found.</description>
+    </item>
+    
+    <item>
+      <title>Readability</title>
+      <link>https://ankakulka.github.io/blog/readability/</link>
+      <pubDate>Tue, 01 Jun 2021 15:01:02 +0100</pubDate>
+      
+      <guid>https://ankakulka.github.io/blog/readability/</guid>
+      <description>Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility sipmly means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished.
+A ‘readable’ text invites you to read. It goes beyond simple legibility. Usually, some clever formatting is needed to make the text readable.</description>
+    </item>
+    
+  </channel>
+</rss>
